@@ -1,5 +1,5 @@
 {
-    "name": "ruflin/elastica",
+    "name": "ciatog/elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
@@ -9,6 +9,9 @@
         {
             "name": "Nicolas Ruflin",
             "homepage": "http://ruflin.com/"
+        },
+        {
+            "name": "Keith Webster"
         }
     ],
     "require": {
